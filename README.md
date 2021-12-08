@@ -24,5 +24,5 @@ Goals:
 My Preferences:
 * Programming Language - Java
 * No Prerequisites - Starting from scratch
-* Tutorial playlist - https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ [By Kunal Kushwala] 
+* Tutorial playlist - https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ [By Kunal Kushwaha] 
 * Kunal's GitHub for more info - https://github.com/kunal-kushwaha/DSA-Bootcamp-Java 
