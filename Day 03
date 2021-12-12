@@ -1,0 +1,30 @@
+* Day 01 
+Procedural vs Functional vs Object Oriented Languages
+Static vs Dynamic memory allocation
+Objects and references
+Flowcharts
+Pseudocode
+Fundamentals of Java
+Architecture of Java 
+JDK, JRE and JVM
+Installation
+
+
+* Day 02
+- Structure of Java File
+- Input and Output in Java
+- Primitive Data Types
+- Type Conversion and Casting
+- Debugging
+- Control flow
+- Loops
+
+
+* Day 03
+Problems Solved: 
+- Draw Flowchart & write algorithms [Pseudo-code] for 
+1. Input a year and find whether it is a leap year or not.
+2. Take two numbers and print the sum of both.
+3. Take a number as input and print the multiplication table for it.
+4. Take 2 numbers as inputs and find their HCF and LCM.
+5. Keep taking numbers as inputs till the user enters ‘x’, after that print sum of all.
