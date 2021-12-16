@@ -1,5 +1,3 @@
-package exercise;
-
 import java.sql.SQLOutput;
 import java.util.Scanner;
 
