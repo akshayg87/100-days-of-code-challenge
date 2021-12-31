@@ -117,7 +117,7 @@ Problems solved
 - Kunal is allowed to go out with his friends only on the even days of a given month. Write a program to count the number of days he can go out in the month of August.
 
 
-Day 11
+* Day 11
 - Functions/Methods
 - Types of arguments
 - Passing values
@@ -125,3 +125,20 @@ Day 11
 - Shadowing
 - Function overloading
 - Examples
+
+
+* Day 12
+Problems solved:
+- Define two methods to print the maximum and the minimum number respectively among three numbers entered by the user.
+- Define a program to find out whether a given number is even or odd using methods.
+- A person is eligible to vote if his/her age is greater than or equal to 18. Define a method to find out if he/she is eligible to vote.
+- Write a program to print the sum of two numbers entered by user by defining your own method.
+- Define a method that returns the product of two numbers entered by user.
+- Write a program to print the circumference and area of a circle of radius entered by user by defining your own method.
+- Define a method to find out if a number is prime or not.
+- Write a program that will ask the user to enter his/her marks (out of 100). Define a method that will display grades according to the marks.
+- Write a program to print the factorial of a number by defining a method named 'Factorial'.
+- Write a function to find if a number is a palindrome or not. Take number as parameter.
+- Write a function to check if a given triplet is a Pythagorean triplet or not.
+- Write a function that returns all prime numbers between two given numbers.
+- Write a function that returns the sum of first n natural numbers.
