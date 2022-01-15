@@ -3,7 +3,7 @@ package search;
 public class SmallestLetter {
     public static void main(String[] args) {
         char[] letters = {'a', 'c', 'g', 'm'};
-        char target = 'x';
+        char target = 'b';
         System.out.println(nextGreatestLetter(letters, target));
 
 }
