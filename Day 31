@@ -337,3 +337,19 @@ Problems Solved
 + Average Salary Excluding the Minimum and Maximum Salary
 + Make Two Arrays Equal by Reversing Sub-arrays
 + Can Make Arithmetic Progression From Sequence
+
+
+* Day 31
+Topics Covered
++ Strings
++ Internal Working of String
++ String Pooling & Immutability
++ Pretty Printing in Java
++ String Performance
++ StringBuilder Class
++ String Methods
+Problems Solved
++ Special Array With X Elements Greater Than or Equal X
++ Find all numbers disappeared in an array
++ Set Mismatch
++ 2Sum
