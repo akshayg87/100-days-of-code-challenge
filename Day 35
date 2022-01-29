@@ -391,3 +391,16 @@ Problems Solved
 + Check if Binary String Has at Most One Segment of Ones
 + Merge Strings Alternately
 
+
+* Day 35
+Topics Covered
++ Recursion
++ Recursive Function
++ Internal Working of Recursive Function
++ Base Condition in Recursion
++ Visualising Recursion (Recursion Tree)
++ Q1 : Fibonacci Numbers
++ Tail Recursion
++ Best Approach for Recursion Problems
++ Q2 : Binary Search
++ Types of Recurrence Relation
