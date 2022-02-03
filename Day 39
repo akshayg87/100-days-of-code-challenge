@@ -439,3 +439,18 @@ Problems Solved
 + Number of Steps to Reduce a Number to Zero
 + Check for balanced paranthesis using recursion 
 + Remove consecutive duplicate characters from a string
+
+
+* Day 39
+Topics Covered
++ Time Complexity
++ Big-Oh Notation
++ Big-Omega Notation
++ Big-Theta Notation
++ Space Complexity
++ Complexity Analysis : Recursive Programs
++ Different Recurrence Relations
++ Akra-Bazzi Theorem
++ Linear Recurrence Relation
++ Homogenous & Non-Homogeneous Linear Recurrence Relation
+
