@@ -2,7 +2,7 @@ package bitwise;
 
 public class numberBits {
     public static void main(String[] args) {
-        int n = 00000000000000000001101;
+        int n = 5;
         System.out.println(count(n));
     }
 
