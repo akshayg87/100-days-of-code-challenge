@@ -1,17 +1,14 @@
-package recursion;
-
 public class printN {
-    public static void main(String[] args) {
-       num(1, 5);
+    public static void main(String[] args){
+       fun(5);
     }
 
-    static void num(int i, int limit)
+    static void fun(int n)
     {
-        if (i==limit) {
+        if (n==0)
             return;
-        }
 
-        System.out.println(i);
-        num(limit, i+1);
+        fun(n-1);
+        System.out.println(n);
     }
 }
