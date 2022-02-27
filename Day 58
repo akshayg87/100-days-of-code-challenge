@@ -631,3 +631,12 @@ Problems Solved
 + Skip a character
 + Skip a string
 + Skip a string if it's not the required string
+
+
+* Day 58
+Problems Solved
++ Form subsequences
++ Return an ArrayList of string
++ Subsequences with ASCII values
++ Iterative program for subsequences
++ Subsequences with duplicate elements
