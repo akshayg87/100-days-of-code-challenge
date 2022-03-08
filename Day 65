@@ -695,3 +695,13 @@ Topics Covered
 + Memory Allocation 
 + Wrapper Classes
 + Garbage Collection
+
+
+* Day 65
+Topics Covered
++ Java Packages
++ "import" statement
++ "static" in Java
++ Static variables with classes
++ Inner Classes
++ Singleton Class
