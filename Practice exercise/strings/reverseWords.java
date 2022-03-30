@@ -1,25 +1,19 @@
-package strings;
-
+//Reverse words in a given string
 public class reverseWords {
     public static void main(String[] args) {
-        String s = "Let's take LeetCode contest";
-        System.out.println(reverse(s));
+        String S = "i.like.this.program.very.much";
+        System.out.println(reversewords(S));
     }
 
-    static String reverse(String s)
+    static String reversewords(String S)
     {
-        //Create a stringbuilder from the input string e.g -> Let's take LeetCode contest
-        StringBuilder stringBuilder = new StringBuilder(s);
-//        reverse the whole string to -> tsetnoc edoCteeL ekat s'teL
-        stringBuilder.reverse();
-//        split using spaces to create an array of the reversed string->  [tsetnoc, edoCteeL, ekat, s'teL]
-        String[] strings = stringBuilder.toString().split(" ");
-//        remove all the characters from the initial stringBuilder ->
-        stringBuilder.delete(0,stringBuilder.length());
-//        iterate over the array backwards adding the words into the string builder
-        for (int i = strings.length -1 ; i >= 0 ; i--) {
-            stringBuilder.append(strings[i]).append(" ");
+        String[] s=S.split("\\.");
+        String rev="";
+        for(int i=s.length-1;i>=0;i--)
+        {
+            rev=rev+s[i]+".";
         }
-        return stringBuilder.toString().trim();
+        return rev.substring(0,rev.length()-1);
+
     }
 }
