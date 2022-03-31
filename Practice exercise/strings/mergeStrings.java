@@ -1,24 +1,28 @@
-package strings;
-
+//Merge two strings
 public class mergeStrings {
     public static void main(String[] args) {
-        String word1 = "abcd";
-        String word2 = "pq";
-
-        System.out.println(merge(word1, word2));
+        String s1 = "Hello";
+        String s2 = "Bye";
+        System.out.println(merge(s1,s2));
     }
 
-    static String merge (String word1, String word2)
-    {
-        StringBuilder sb = new StringBuilder();
-        int len = Math.max(word1.length(), word2.length());
+    static String merge(String s1, String s2){
+        String res = "";
+        int n1 =s1.length();
+        int n2 =s2.length();
 
-        for(int i=0; i<len; i++){
-            if(i < word1.length())
-                sb.append(word1.charAt(i));
-            if(i < word2.length())
-                sb.append(word2.charAt(i));
+        if (n1>n2){
+            for (int i = 0; i < n2; i++) {
+                res += s1.charAt(i);
+                res += s2.charAt(i);
+            }
+            return res+s1.substring(n2);
         }
-        return sb.toString();
+        for (int i = 0; i < n1; i++) {
+            res += s1.charAt(i);
+            res += s2.charAt(i);
+        }
+        return res+s2.substring(n1);
+
     }
 }
